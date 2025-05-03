@@ -1,4 +1,5 @@
 **# Real Time Human Action REcognition using mediapipe & TensorFlow**
+
 This project implements a real-time human gestue/acrtion recognition system using mediapipe for landmark detection and tensorflow for sequence modeling with LSTM layers.
 
 **# 🚀 Features**
