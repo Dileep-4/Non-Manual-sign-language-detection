@@ -65,7 +65,7 @@ make sure your webcam is enabled and permissions granted.
 
 --> Interactive educational tools
 
-**📌 To DO**
+**📌 To Do**
 
 --> Improve model accuracy with more training data
 
